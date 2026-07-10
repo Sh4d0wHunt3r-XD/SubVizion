@@ -58,6 +58,10 @@ Vanilla HTML/CSS, JavaScript, D3.js (for network visualization)
 #### • Delivery: 
 Single executable binary (16.4 MB) for Windows, macOS, and Linux.
 
+#### • One-Click Setup: 
+Includes pre-configured .bat and .sh scripts for automated dependency installation and deployment. True plug-and-play architecture.
+
+
 ### Reason for Sale & Transfer Details:
 I built this tool to solve the specific bottlenecks (speed, memory
 usage, and lack of visual analytics) present in current opensource ASM tools. It is fully production-ready, highly optimized,
